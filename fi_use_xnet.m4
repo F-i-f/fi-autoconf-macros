@@ -1,7 +1,7 @@
 # -*- sh -*-
 # aclocal - Library of autoconf macros
 # fi_use_xnet.m4 - Select whether or not to use the X/Open networking library.
-# Copyright (C) 2000, 2002, 2004 Philippe Troin <phil@fifi.org>
+# Copyright (C) 2000, 2002, 2004 Philippe Troin <phil+github-commits@fifi.org>
 #
 # $Id: fi_use_xnet.m4 1830 2004-04-06 03:18:18Z phil $
 #

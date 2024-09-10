@@ -1,7 +1,7 @@
 # -*- sh -*-
 # aclocal - Library of autoconf macros
 # fi_check_lib_for_sockets.m4 - Finds required libraries for socket calls
-# Copyright (C) 2002, 2004 Philippe Troin <phil@fifi.org>
+# Copyright (C) 2002, 2004 Philippe Troin <phil+github-commits@fifi.org>
 #
 # $Id: fi_check_lib_for_sockets.m4 1826 2004-04-06 00:26:44Z phil $
 #
